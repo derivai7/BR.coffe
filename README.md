@@ -1,0 +1,3 @@
+**br.store Landing Page - Coffee Shop Online:**
+
+Sebagai bagian dari proyek belajar mandiri, saya berhasil merancang landing page untuk br.store, sebuah kafe online fiktif. Dengan menggunakan HTML, CSS, dan JavaScript, saya fokus pada pembuatan halaman depan yang menarik dan responsif, memberikan pengguna pengantar yang menarik terhadap keberadaan kafe online tersebut. Desain ini menekankan kesederhanaan dan estetika, dan integrasi JavaScript menambahkan elemen interaktif untuk meningkatkan pengalaman pengguna secara keseluruhan. Proyek ini mencerminkan dedikasi saya untuk memahami baik implementasi teknis maupun prinsip-prinsip desain berorientasi pengguna.
